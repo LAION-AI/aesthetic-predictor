@@ -31,3 +31,6 @@ def get_aesthetic_model(clip_model="vit_l_14"):
 ```
 
 That model takes clip embeddings as input 
+
+https://github.com/rom1504/embedding-reader/blob/main/examples/aesthetic_inference.py
+https://github.com/rom1504/embedding-reader/blob/main/examples/aesthetic_inference_emb.py
