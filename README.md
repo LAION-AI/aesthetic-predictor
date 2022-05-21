@@ -12,7 +12,7 @@ def get_aesthetic_model(clip_model="vit_l_14"):
     home = expanduser("~")
     cache_folder = home + "/.cache/emb_reader"
     path_to_model = cache_folder + "/sa_0_4_"+clip_model+"_linear.pth"
-    if not os.path.exists(cache_folder):
+    if not os.path.exists(path_to_model):
         os.makedirs(cache_folder, exist_ok=True)
         url_model = (
             "https://github.com/LAION-AI/aesthetic-predictor/blob/main/sa_0_4_"+clip_model+"_linear.pth?raw=true"
