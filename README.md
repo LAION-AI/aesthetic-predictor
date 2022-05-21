@@ -1,6 +1,8 @@
 # aesthetic-predictor
 A linear estimator on top of clip to predict the aesthetic quality of pictures
 
+integrated into https://rom1504.github.io/clip-retrieval/
+
 ```python
 import os
 import torch
