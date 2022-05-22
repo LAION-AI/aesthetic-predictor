@@ -1,4 +1,13 @@
 # aesthetic-predictor
+
+Normal results:
+
+<img src="cat_normal.png" width="512" />
+
+Aesthetic results:
+
+<img src="cat_aesthetic.png" width="512" />
+
 A linear estimator on top of clip to predict the aesthetic quality of pictures
 
 integrated into https://rom1504.github.io/clip-retrieval/
