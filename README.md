@@ -1,5 +1,7 @@
 # aesthetic-predictor
 
+[![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LAION-AI/aesthetic-predictor/blob/main/asthetics_predictor.ipynb)
+
 A linear estimator on top of clip to predict the aesthetic quality of pictures
 
 Normal results:
