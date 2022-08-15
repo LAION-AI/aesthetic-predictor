@@ -1,4 +1,4 @@
-# aesthetic-predictor
+# LAION-Aesthetics_Predictor V1
 
 [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/LAION-AI/aesthetic-predictor/blob/main/asthetics_predictor.ipynb)
 
